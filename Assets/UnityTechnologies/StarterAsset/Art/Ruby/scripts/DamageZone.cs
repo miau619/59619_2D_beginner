@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class DamagedZone : MonoBehaviour
+public class DamageZone : MonoBehaviour
 {
     void OnTriggerStay2D(Collider2D other)
     {

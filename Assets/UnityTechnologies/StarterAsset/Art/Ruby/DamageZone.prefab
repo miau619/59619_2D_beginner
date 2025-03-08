@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1923268892973654839}
   - component: {fileID: 7347206707829318869}
   - component: {fileID: 2070628416950426380}
-  - component: {fileID: 6051201292545355908}
+  - component: {fileID: 5017284357795007417}
   m_Layer: 0
   m_Name: DamageZone
   m_TagString: Untagged
@@ -131,7 +131,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.589086, y: 2.5999079}
   m_EdgeRadius: 0
---- !u!114 &6051201292545355908
+--- !u!114 &5017284357795007417
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -140,6 +140,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 3031293039873368344}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7579d686a30e3e74c9f96c82a067a5ec, type: 3}
+  m_Script: {fileID: 11500000, guid: 75eeaeac04e54ed45a802527db935ead, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

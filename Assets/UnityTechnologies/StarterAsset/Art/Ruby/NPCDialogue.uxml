@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Background" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/UnityTechnologies/StarterAsset/Art/Ruby/UI/UIDialogueBox.png?fileID=2800000&amp;guid=c4592e9bd029fcc45843314f2192f59e&amp;type=3#UIDialogueBox&quot;); width: 100%; height: 100%; color: rgba(255, 255, 255, 0); -unity-font-style: bold;">
+        <ui:Label tabindex="-1" text="Hey! Fix those darn robots for me, will &apos;ya?" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 100%; height: 100%; color: rgb(3, 63, 6); -unity-text-align: upper-left; white-space: normal; font-size: 37px; margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px; padding-top: 60px; padding-right: 60px; padding-bottom: 60px; padding-left: 60px; text-overflow: clip;" />
+    </ui:VisualElement>
+</ui:UXML>
